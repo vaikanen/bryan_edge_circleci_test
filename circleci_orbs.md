@@ -1,4 +1,4 @@
-# How CircleCI Orbs Help You Improve Efficiency #
+# How CircleCI Orbs Simplify Builds and Improve Efficiency #
 
 Orbs are shareable packages of CircleCI configuration you can use to simplify your builds and help automate processes.
 It simplifies your configuration by allowing you to write a parameterized configuration once and then use it across multiple similar projects. More specifically, an orb is a reusable package of YAML configuration that condenses repeated pieces of config into a single line of code.  
