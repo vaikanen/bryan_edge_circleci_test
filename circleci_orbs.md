@@ -18,7 +18,7 @@ The CircleCI [orbs registry](https://circleci.com/developer/orbs) contains an ex
 ### Creating your own orbs ###  
 If the CircleCI Orb Regsitry doesn't have an orb to fit your needs, you can also create a specialized orb using our [Best Practices](https://circleci.com/docs/2.0/orbs-best-practices/#orb-best-practices-guidelines) and [Getting Started](https://circleci.com/docs/2.0/orb-author-intro/) guides. And our [Orb Development Kit](https://circleci.com/docs/2.0/orb-author/#orb-development-kit) will help you simplify the authoring process with automated testing and deployment on CircleCI. 
 
-If your team wants to share configuration across multiple projects, exclusive to your organization, you can create **private orbs**. Private orbs are now available to all [paid plans.] (https://circleci.com/pricing)
+If your team wants to share configuration across multiple projects, exclusive to your organization, you can create **private orbs**. Private orbs are now available to all [paid plans.](https://circleci.com/pricing)
 
 ### Learn more about orbs ###
 
