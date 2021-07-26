@@ -25,4 +25,5 @@ If your team wants to share configuration across multiple projects exclusive to 
 ## Learn more about orbs ##
 
 * [Introduction to Orbs](https://circleci.com/docs/2.0/orb-intro/)
+* [Orb Concepts](https://circleci.com/docs/2.0/orb-concepts/)
 * [Orb Use Case Studies](https://circleci.com/orbs/)
